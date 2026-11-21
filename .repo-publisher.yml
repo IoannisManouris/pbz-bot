@@ -1,0 +1,10 @@
+profile: public-oss
+owner: IoannisManouris
+repository: pbz-bot
+description: "Discord community tools for PBZ, including opt-in roles, server statistics, moderation, and Roblox commands."
+visibility: public
+default_branch: main
+license: unlicensed
+status: historical-source
+topics: [discord-bot, discord-py, python, roblox, moderation]
+release_policy: no-versioned-releases

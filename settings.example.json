@@ -1,0 +1,17 @@
+{
+  "guild_id": 0,
+  "statistic_channels": {
+    "members": 0,
+    "online": 0
+  },
+  "game_ids": {
+    "Musical Statues": 0
+  },
+  "role_toggles": {
+    "💸 Giveaways Ping": 0,
+    "🎉 Events Ping": 0,
+    "📢 Community Ping": 0
+  },
+  "game_moderator_role_id": 0,
+  "large_purge_role_id": 0
+}
